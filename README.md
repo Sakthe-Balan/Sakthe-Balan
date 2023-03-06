@@ -3,9 +3,9 @@
 <h3 align="center">
 One area of particular interest to me is Cloud Computing. Cloud computing allows developers to build and deploy applications quickly and efficiently, without the need for expensive hardware or infrastructure. I've worked with several cloud platforms, including Amazon Web Services (AWS), and Google Cloud Platform (GCP), and I'm always looking for new ways to leverage cloud technology to improve application performance and scalability.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthe-balan&label=Profile%20views&color=0e75b6&style=flat" alt="sakthe-balan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sakthe-balan&label=Profile%20views&color=0e75b6&style=flat" alt="sakthe-balan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakthe-balan" alt="sakthe-balan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakthe-balan" alt="sakthe-balan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
