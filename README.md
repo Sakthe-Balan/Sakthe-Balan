@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A Sakthe Balan</h1>
 <h3 align="center">As a Full Stack Developer, I'm interested in all aspects of application development, from frontend design to backend server management. I enjoy the challenge of creating applications that are easy to use and provide value to their users. I'm constantly learning new technologies and techniques to improve my skills and stay up-to-date with the latest trends.</h3>
 <h3>
-One area of particular interest to me is Cloud Computing. Cloud computing allows developers to build and deploy applications quickly and efficiently, without the need for expensive hardware or infrastructure. I've worked with several cloud platforms, including Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), and I'm always looking for new ways to leverage cloud technology to improve application performance and scalability.</h3>
+One area of particular interest to me is Cloud Computing. Cloud computing allows developers to build and deploy applications quickly and efficiently, without the need for expensive hardware or infrastructure. I've worked with several cloud platforms, including Amazon Web Services (AWS), and Google Cloud Platform (GCP), and I'm always looking for new ways to leverage cloud technology to improve application performance and scalability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthe-balan&label=Profile%20views&color=0e75b6&style=flat" alt="sakthe-balan" /> </p>
 
