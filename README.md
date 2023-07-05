@@ -20,5 +20,5 @@ One area of particular interest to me is Cloud Computing. Cloud computing allows
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthe-balan&show_icons=true&locale=en&layout=compact" alt="sakthe-balan" /><img  src="https://github-readme-stats.vercel.app/api?username=sakthe-balan&show_icons=true&locale=en" alt="sakthe-balan" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakthe-balan&" alt="sakthe-balan" /></p>
+
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------</P>
