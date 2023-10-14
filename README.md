@@ -11,7 +11,7 @@ One area of particular interest to me is Cloud Computing. Cloud computing allows
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sakthe balan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthe balan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sakthe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthe balan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alagusasi2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alagusasi2003" height="30" width="40" /></a>
 </p>
 
