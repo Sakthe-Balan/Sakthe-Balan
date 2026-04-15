@@ -75,13 +75,7 @@ Full Stack Developer | Cloud Enthusiast | Problem Solver
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakthe-balan&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 👀 Profile Views
 
